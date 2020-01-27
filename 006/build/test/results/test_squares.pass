@@ -1,0 +1,18 @@
+---
+:source:
+  :path: test
+  :file: test_squares.c
+:successes:
+- :test: test_diff_squares_1_to_100
+  :line: 4
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 1
+  :passed: 1
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.0013913960428908467
