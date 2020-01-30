@@ -1,0 +1,42 @@
+---
+:source:
+  :path: test
+  :file: test_prime.c
+:successes:
+- :test: test_primeN_1
+  :line: 4
+  :message: ''
+  :unity_test_time: 0
+- :test: test_primeN_2
+  :line: 8
+  :message: ''
+  :unity_test_time: 0
+- :test: test_primeN_3
+  :line: 12
+  :message: ''
+  :unity_test_time: 0
+- :test: test_primeN_4
+  :line: 16
+  :message: ''
+  :unity_test_time: 0
+- :test: test_primeN_5
+  :line: 20
+  :message: ''
+  :unity_test_time: 0
+- :test: test_primeN_101
+  :line: 24
+  :message: ''
+  :unity_test_time: 0
+- :test: test_primeN_10001
+  :line: 28
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 7
+  :passed: 7
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.765320542966947
