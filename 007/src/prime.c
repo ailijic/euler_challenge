@@ -21,7 +21,10 @@ long primeN(long n) {
       len++;
     }
   }
-  return ls[len - 1];
+
+  long ret = ls[len - 1];
+  free(ls);
+  return ret;
 }
 
 bool is_prime(long ls[], long len, long n) {
