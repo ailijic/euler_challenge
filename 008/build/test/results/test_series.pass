@@ -1,0 +1,30 @@
+---
+:source:
+  :path: test
+  :file: test_series.c
+:successes:
+- :test: test_sumOf13_ones
+  :line: 4
+  :message: ''
+  :unity_test_time: 0
+- :test: test_sumOf13_zero
+  :line: 9
+  :message: ''
+  :unity_test_time: 0
+- :test: test_sumOf13_many_nums
+  :line: 14
+  :message: ''
+  :unity_test_time: 0
+- :test: test_maxProduct_of_1000_numbers
+  :line: 19
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 4
+  :passed: 4
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.002074407006148249
